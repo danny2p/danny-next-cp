@@ -33,6 +33,7 @@
     "clsx": "2.1.1",
     "dotenv": "16.4.7",
     "next": "15.5.4",
+    "nextjs": "^0.0.3",
     "query-string": "8.2.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
